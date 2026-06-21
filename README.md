@@ -23,3 +23,4 @@
    ```bash
    python -m streamlit run App.py
    ```
+<img width="948" height="1430" alt="Screenshot 2026-06-21 143406" src="https://github.com/user-attachments/assets/e412c9dc-44aa-4b27-971b-f04aad1f9b99" />
